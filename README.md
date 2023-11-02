@@ -1,4 +1,3 @@
 # learningGit
-The first pr0gram
-
-I am Harshitha
+The is first my first program
+Author - Harshitha
